@@ -5,7 +5,7 @@
 //matricula: 536784
 
 int main(){
-
+\\criação das variaveis
     unsigned int z[200];
     int mem;
     int saida;
