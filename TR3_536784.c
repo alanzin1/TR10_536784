@@ -53,7 +53,7 @@ int main(){
 
         else{
             
-//laço responsavel de printar para o usuario os dados de entrada já processados
+//laço e condição responsaveis pela saida dados de entrada já processados
             
             for(saida = 0; saida < 200; saida++){
                 for(i = 0; i < 32; i++) {
